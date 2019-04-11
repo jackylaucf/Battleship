@@ -42,7 +42,7 @@ public final class Shipyard {
                 case 0:
                     if(i+1>=size){
                         for(int n=1; n<size; n++){
-
+                            //todo
                         }
                     }else{
                         continue;
@@ -51,7 +51,7 @@ public final class Shipyard {
                 case 1:
                     if(j+size<=gridLength){
                         for(int n=1; n<size; n++){
-
+                            //todo
                         }
                     }else{
                         continue;
@@ -60,7 +60,7 @@ public final class Shipyard {
                 case 2:
                     if(i+size<=gridLength){
                         for(int n=1; n<size; n++){
-
+                            //todo
                         }
                     }else{
                         continue;
@@ -69,7 +69,7 @@ public final class Shipyard {
                 case 3:
                     if(j+1>=size){
                         for(int n=1; n<size; n++){
-
+                            //todo
                         }
                     }else{
                         continue;
